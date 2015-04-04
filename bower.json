@@ -1,0 +1,22 @@
+{
+  "name": "mb-datatables",
+  "version": "0.1",
+  "homepage": "https://github.com/minhbang/Datatables",
+  "authors": [
+    "Minh Bằng <contact@minhbang.com>"
+  ],
+  "description": "forked from DataTables/DataTables #1.9.4",
+  "main": "jquery.dataTables.js",
+  "keywords": [
+    "datatables",
+    "minhbang"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
